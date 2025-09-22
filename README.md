@@ -49,7 +49,8 @@
 
 - Сайт моего Агентства: [ysf.gt.tc](http://ysf.gt.tc/)  
 - Telegram (личные сообщения): [@rolginbusiness](https://t.me/rolginbusiness)  
-- Telegram-канал: [rolginspace](https://t.me/rolginspace)  
+- Telegram-канал: [rolginspace](https://t.me/rolginspace)
+- e-mail [ysf-agency@yandex.ru](ysf-agency@yandex.ru)
 ---
 
 > "Зачем мне мир, в котором нет кода?"
